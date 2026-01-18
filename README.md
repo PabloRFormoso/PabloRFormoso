@@ -1,6 +1,6 @@
 <div>
   <header>
-    <h3> Olá, Seja bem vindo(a) ao meu perfil no GitHub 🙂</h3>
+    <h1> Olá, Seja bem vindo(a) ao meu perfil no GitHub 🙂</h1>
   </header>
 </div>
 
@@ -17,7 +17,7 @@
 ##
 
 <div>
-  <h1>Teste</h1>
+  <h2>Teste</h2>
 </div>
 
 <div style="display: inline_block"><br>
