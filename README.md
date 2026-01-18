@@ -18,7 +18,7 @@
 
 <div>
   <h2>Sobre</h2>
-  <p>Sou Pablo Formoso, natural do interior do Rio Grande do Sul, tenho 24 anos e sou estudante de desenvolvimento front-end, com foco em JavaScript, ReactJS e NodeJS.</p>
+  <p>Meu nome é Pablo Formoso, sou natural do interior do Rio Grande do Sul, tenho 24 anos e sou estudante de desenvolvimento front-end, com foco em JavaScript, ReactJS e NodeJS.</p>
 <p>Atualmente, estou construindo minha base técnica por meio de projetos de estudo, buscando compreender boas práticas de desenvolvimento, organização de código e fundamentos de interfaces web. </p>
 <p>Tenho interesse em oportunidades que permitam aprendizado prático, evolução técnica e crescimento profissional na área de tecnologia.</p>
 </div>
