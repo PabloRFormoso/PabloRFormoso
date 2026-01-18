@@ -1,6 +1,6 @@
 <div>
   <header>
-    <h1> Olá, Seja bem vindo(a) ao meu perfil no GitHub 🙂</h1>
+    <h1> Olá, Seja bem vindo(a) ao meu perfil do GitHub 🙂</h1>
   </header>
 </div>
 
