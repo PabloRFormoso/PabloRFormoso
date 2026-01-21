@@ -27,7 +27,7 @@
 <div>
   <h2>Sobre</h2>
   <img
-    src="public/eu.png"
+    src="https://i.imgur.com/Q9YhYVR.png"
     alt="Pablo Formoso"
     class="nav-profile"
     width="40"
