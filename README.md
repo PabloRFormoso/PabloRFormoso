@@ -30,7 +30,7 @@
     src="https://i.imgur.com/Q9YhYVR.png"
     alt="Pablo Formoso"
     class="nav-profile"
-    width="120"
+    width="150"
     height="110"
   />
   <p>Meu nome é Pablo Formoso, sou natural do interior do Rio Grande do Sul, tenho 24 anos e sou estudante de desenvolvimento front-end, com foco em JavaScript, ReactJS e NodeJS.</p>
